@@ -15,3 +15,10 @@ need to learn it
 
 ```
 
+```
+Git has a mutable index called stage.
+Git tracks changes.
+```
+
+fxxk bad things
+
